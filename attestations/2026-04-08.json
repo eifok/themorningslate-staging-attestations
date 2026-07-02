@@ -1,0 +1,16 @@
+{
+  "schemaVersion": "almanac-attestation-v1",
+  "date": "2026-04-08",
+  "verifyAt": "https://almanac-staging.vercel.app/verify",
+  "instructions": "Each entry below is a SHA-256 hash of a prediction published on this date. Visit verifyAt to recompute any hash from its prediction's canonical input. A prediction whose live hash no longer matches the value here has been tampered with. The rootHash is sha256 of the sorted concatenation of all entry hashes — change one and it flips.",
+  "count": 1,
+  "rootHash": "7e91994870e7f456222e778135c20c53ff52da1a5905d145a4dde421c0100482",
+  "predictions": [
+    {
+      "id": "cmowwzskc00g3sotz4fq3llng",
+      "hash": "acef97ab9baf043d773df1a21ca259cc0854f0f8d5c41e94b60ff2c6cd35470c",
+      "predictionSchemaVersion": "betclarity-prediction-v2",
+      "publishedAt": "2026-04-08T08:38:00.000Z"
+    }
+  ]
+}
