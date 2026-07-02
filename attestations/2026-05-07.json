@@ -1,0 +1,46 @@
+{
+  "schemaVersion": "almanac-attestation-v1",
+  "date": "2026-05-07",
+  "verifyAt": "https://almanac-staging.vercel.app/verify",
+  "instructions": "Each entry below is a SHA-256 hash of a prediction published on this date. Visit verifyAt to recompute any hash from its prediction's canonical input. A prediction whose live hash no longer matches the value here has been tampered with. The rootHash is sha256 of the sorted concatenation of all entry hashes — change one and it flips.",
+  "count": 6,
+  "rootHash": "56fcead9b198335d65304577ae5dac00c0e3254f382fb769711aafc5a21ffed6",
+  "predictions": [
+    {
+      "id": "cmowwzsb200dmsotzuxwnk3av",
+      "hash": "4bd00058306b6ebd04b053e2a677a0a9559712201c8ea932520f75137702b91a",
+      "predictionSchemaVersion": "betclarity-prediction-v2",
+      "publishedAt": "2026-05-07T06:00:00.000Z"
+    },
+    {
+      "id": "cmowwzsbn00drsotzd7eb7oll",
+      "hash": "528b694979c90e8b80fa02ceb3dba5d47d8909be653f5c3853ea8fc768e7b81c",
+      "predictionSchemaVersion": "betclarity-prediction-v2",
+      "publishedAt": "2026-05-07T06:00:00.000Z"
+    },
+    {
+      "id": "cmowwzsb700dnsotz3tfiw6ku",
+      "hash": "619350f74899bfc333ab1ff709e7d28033d239a199ee20878f45545d949243cb",
+      "predictionSchemaVersion": "betclarity-prediction-v2",
+      "publishedAt": "2026-05-07T06:00:00.000Z"
+    },
+    {
+      "id": "cmowwzsbj00dqsotzq1yjt05p",
+      "hash": "b4de0fa287397f98a7749f0be883b59111876667f9cdc84f2c914cd257530a4b",
+      "predictionSchemaVersion": "betclarity-prediction-v2",
+      "publishedAt": "2026-05-07T06:00:00.000Z"
+    },
+    {
+      "id": "cmowwzsoe00h7sotzi4emrky0",
+      "hash": "eeaa7711238f97341f653ea67e07f010a60ba6d2eb0dfa60be63b54e23530fda",
+      "predictionSchemaVersion": "betclarity-prediction-v2",
+      "publishedAt": "2026-05-07T08:26:00.000Z"
+    },
+    {
+      "id": "cmowwzsbr00dssotzh7xmymcm",
+      "hash": "f4826db02244d4028f8fcee20b13b23e9f598486c39c32b407d52deed57ca080",
+      "predictionSchemaVersion": "betclarity-prediction-v2",
+      "publishedAt": "2026-05-07T06:00:00.000Z"
+    }
+  ]
+}
