@@ -1,0 +1,8 @@
+{
+  "attestationDate": "2026-07-08",
+  "predictionId": "cmd8f80c5a57a403192f5968ab",
+  "expectedHash": "04deb7276db8c1455c789fc014d9517acb151fe0881b5e051a3be1295746a601",
+  "recomputedHash": "(prediction missing from current store)",
+  "message": "Prediction referenced in the most recent attestation no longer exists in the store. This indicates either a schema change that orphaned the record or data was deleted.",
+  "detectedAt": "2026-07-10T00:15:22.501Z"
+}
