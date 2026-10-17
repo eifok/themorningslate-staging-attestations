@@ -1,0 +1,1198 @@
+{
+  "schemaVersion": "almanac-attestation-v1",
+  "date": "2026-10-16",
+  "verifyAt": "https://almanac-staging.vercel.app/verify",
+  "instructions": "Each entry below is a SHA-256 hash of a prediction published on this date. Visit verifyAt to recompute any hash from its prediction's canonical input. A prediction whose live hash no longer matches the value here has been tampered with. The rootHash is sha256 of the sorted concatenation of all entry hashes — change one and it flips.",
+  "count": 198,
+  "rootHash": "ffaa521611c47c021fc633af291fd90e9b48369130faae20faec418ae3b6ee69",
+  "predictions": [
+    {
+      "id": "cm440ffe66ae0f16855e2814ab",
+      "hash": "001cb24033da94d98d7bf26fcb0dab15ba42ac15a89fc18ad6e362841b41022b",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm901f895a6e9d0866c2e18fab",
+      "hash": "00fa1472679239b3c08620b9a1390a93c411f1650322927c7bfad84a4f5517d8",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cmcabfda20d07fa55ae89ef8ab",
+      "hash": "034791b80f84fec63cd5510ed8f302f548de4ae3032086c2125b3b3ddb5f26de",
+      "predictionSchemaVersion": "betclarity-prediction-v2",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cmb6e0e60a3aaadc2ca46a63ab",
+      "hash": "03be4a125952befdcc818317068a97f5e883cbe061f4e550f4f866a61acc768c",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm9fb4fc4efdcf235368f70fab",
+      "hash": "03e05332d6e74594b0758bae9a25e87c2eeab91ff5008f60b66e0dce66ccd230",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm562024f3e796b478d42cabab",
+      "hash": "06e48ba2e61cfbc18e1b419a1f970ec698d20421116efd6ed21064876e281b54",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm321c6a088cd68227108469ab",
+      "hash": "07c86791e5be81c22b51f731264df86264a129dd021e12c5c09df2bb90ee4c91",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm22e1b9ada4a35e736f9ffdab",
+      "hash": "081e7febf07fcb9e9b58bb52f30727776c5cfd60b8fbb68b93affb196122aea7",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cmbc90bca1b75e0ad233c1a3ab",
+      "hash": "082829501b4ea129731de134a7560a47bb647e39365b2a826366d6dadd33e9dd",
+      "predictionSchemaVersion": "betclarity-prediction-v2",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cme22bdc2b8b1a885d03204aab",
+      "hash": "09467a7bcc889df9d2b493822372b487bb06b9abdfdbf05fd92087eae7a42418",
+      "predictionSchemaVersion": "betclarity-prediction-v2",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cmbd7697809f70f84998bcccab",
+      "hash": "0afc2f31cfef0b5c1ea0ea85aebe6631a7fd99ec882e5f70058a33ecc9401130",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cmd7b34f7f215b6028c698abab",
+      "hash": "0b3f89b8ff565dd4885359e7c501f887b77c017d5156ae46ceba7bacef33c211",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cmd388cae41345b52b1197a0ab",
+      "hash": "0c0ed1f34e16a6f97acdc28e52176cb2b0c60c4c46d93af50eb89f6c0886d1d3",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cmcf34631312dc9249a5cddcab",
+      "hash": "0c223e4380c374537d6773082a5f4d780129496b0eee7027a1ceac99517a3e42",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cmaaedec11bc39fef649cb7cab",
+      "hash": "0e1d43e77ffa5ca913dffaca086f0fe6175de0b9a47ae86fcadedde8f69c480a",
+      "predictionSchemaVersion": "betclarity-prediction-v2",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm0a0ab214978db1e17698dcab",
+      "hash": "10ad435da470bc0f5cece4d6946b033fee43b6eaf5f3696200affc605137f8ac",
+      "predictionSchemaVersion": "betclarity-prediction-v2",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cmb8a75546c1b1d1ff9040deab",
+      "hash": "10b1c96b2efaf904e1619cd1e7202f5cc2916abc3c0b1893132e5237b34728a5",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cmef6292ea9d2c262b7639c5ab",
+      "hash": "114721e7c511723fbc91e3bbb572d32b4f34e8f2b63c58f28e12d3b8a780f2bf",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cme65f7b1c96462803c7f03fab",
+      "hash": "129756407ec40f3f64ac12d9d4ed81e6289bcb2718d1041b70a6a94a63f6ef0e",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm78a73c0ae9fe784a8d0418ab",
+      "hash": "135cce6f3d28698979e75fbdcd09ad6197e79b72a4d0068d3b07f082c9c5d484",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm1731d65f74a29cbd5edff9ab",
+      "hash": "17e28b79dae502c1515e44eb35831623c009e7ecbf12793a4d90067be1792283",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm2520da507ee9008c3ba09dab",
+      "hash": "1a2b5fdceb13e4cfd55c49c1dce2826597dc0bc30692bdd663980d1742d5c37e",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm93c86ba39e9d5c1b7b2c13ab",
+      "hash": "1aeb6ca3bb03c71124962f31596ae98ea36e000ebc18f2caf59ed3ad583f68fe",
+      "predictionSchemaVersion": "betclarity-prediction-v2",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cmc67039702351584cda81cfab",
+      "hash": "1b64b497db992a83dd532af9233271b9909f144dd6652fceff402bb12d2864ad",
+      "predictionSchemaVersion": "betclarity-prediction-v2",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cmcbca9559c01c8c4896b5e8ab",
+      "hash": "1f1072a0885fc8b69d6cc7521a89dca4729402da15e991b001b39f1f2516001b",
+      "predictionSchemaVersion": "betclarity-prediction-v2",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm832702c9a63d651e99b0a8ab",
+      "hash": "20cfa697591e4f84bc45c0ab40377c1e453947645d056451b5d1659af6e92eb9",
+      "predictionSchemaVersion": "betclarity-prediction-v2",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cmc98be34c937d2fba97e4eaab",
+      "hash": "21727b6becf2df139b5d50fa491a14d121309b728a48f32eb4f6e4fa618026e7",
+      "predictionSchemaVersion": "betclarity-prediction-v2",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cmba8ad20da1135211385d54ab",
+      "hash": "22d5a08bc685efbba6cc17a988148569128dd39c7c33514cdac1b8fc1cbe63ac",
+      "predictionSchemaVersion": "betclarity-prediction-v2",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm7a071a649c17875843f4feab",
+      "hash": "237c775b5cbe5606cb84ce2606ee9c3e3a33d38d4c509ca003e84642d9b4543d",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm6256a242320d5d31866c11ab",
+      "hash": "251500a06025c581c934d5799ed68c7c74cded22cc1922a3cf008d76dc38f147",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm597e987b1a982c5b857be2ab",
+      "hash": "25387ea69ceb6fc8a5f25dd6496610e6cbfbdb5a11c1d345557b9aeb69a4dae6",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cmc0f426b2d808998d5d9fbcab",
+      "hash": "2585bee0a7b0de17b8629ac26b38d9dd7250ab67b111124b08d730215657ae09",
+      "predictionSchemaVersion": "betclarity-prediction-v2",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm95738754e368d343540b94ab",
+      "hash": "28ba686100105ccb4ad9ae4f4d7c78bc08bf7b7be9e8bc34411512a20f1154b6",
+      "predictionSchemaVersion": "betclarity-prediction-v2",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm0484386d9c382eae101e72ab",
+      "hash": "2c010c6ed16ce46d08d1e740bb18da3f6bbe8db2ded86b4d8e1c97b9cb783cef",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm43c70bf2557b350c172ed7ab",
+      "hash": "319766d6d6e46bde780071d04d3c1cb1dd42c252f656bc1b2613ae0118fd11c4",
+      "predictionSchemaVersion": "betclarity-prediction-v2",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cmd8ee9bad4fe2623bf84993ab",
+      "hash": "3199a141708932ffd620e6a2542fd03bd913785d477084eb74880744b76f06a4",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm07f181064f0bac6c03295cab",
+      "hash": "33cab78a726755c78f1fbebfc7da4ebcc20d3446aec560ff14c75a7114df9b20",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm04c0f623e5b7df84c58b42ab",
+      "hash": "372a3db14e96f162d970b6c04380c7cf179adec6266f0dae9d0805024e77287f",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm78bfce568d147bdeed700aab",
+      "hash": "3765bc088441000f12c824a739d1f5f13f5ef5651a07d34295d43a3361713243",
+      "predictionSchemaVersion": "betclarity-prediction-v2",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm01c14aae2e01663a532486ab",
+      "hash": "38322d1cbed46e09b5e2c5efb66280b70ec5043c62e54d6cdca4c7078947e6da",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm1a56271acd8eef3a783655ab",
+      "hash": "386859646a8aa3caf76ab9559fcef4d84b3b351532bfdec722823a29fbcf2244",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cmb570a594553d95197c1be2ab",
+      "hash": "3944660d41659ec6b6c633f0f81a9ca4d187b3b60a71c5fac5ab91a907feda30",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cma6746c198571c9d1cdac46ab",
+      "hash": "39a07e7159dcea2df572c2a8847f87dab2eb4c49eded7436e5a0b4d7543f036e",
+      "predictionSchemaVersion": "betclarity-prediction-v2",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm0e1a7ba2b5feef8a648150ab",
+      "hash": "3b7bf18bdbb65b98137f105aa1c12748bcb28cd29f403f76392521753f5270f1",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm1b92445836811421b2b424ab",
+      "hash": "3c1777e8cb50f3ce311c7a05c59a7b1d86f1447842f1e29f2ac3a46c2145dcf3",
+      "predictionSchemaVersion": "betclarity-prediction-v2",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cmfea2b3906f888228dec7beab",
+      "hash": "3ff8c155fe6bb5e271cd2fd21a386724e06928824f92efd0399a8464f0c33b8d",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cmb56f3d207d6510cf1a4223ab",
+      "hash": "409128ed20c66eed2039a3a6588ab97b0b91063f120e53635cdf373fb65b1aaa",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm7aa34f7d4a73316095c5feab",
+      "hash": "4159ebb67269874dbdbe3c0a02ab3c4986ee5109a9a523d111430c9f00e37212",
+      "predictionSchemaVersion": "betclarity-prediction-v2",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm063507fd7e71be07886409ab",
+      "hash": "438ca4468e6e1632e2509ea8f9f178b6e6fabcb7d2bff5718ed3f6686c7ae2ca",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm04e5fe24c12f60df04d5fcab",
+      "hash": "447caae4fb6a4e88e229810cca241968accb0122673c7fd43dff3eba25527bf9",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm2ad5d8f7cdeffcc65ed233ab",
+      "hash": "44da9f3ff9f8a8e87c42b15e3d6af121b6273a774d33633ee3f3a0c7114edd2e",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cmc2ed57f0c6814ab0488242ab",
+      "hash": "44f01ee01036e30e084e26925560fd27c51aa21c59179686c6a5d35b5e946367",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cmb4b6c44d5ba170a0ee3544ab",
+      "hash": "480933617381115d80531954d6fc02367453f0d6dfc86c9a6e098d55bb87f26f",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cmdf629871d6096d31d29347ab",
+      "hash": "4a87d2bfa6559d15847b73a0907578231166dc8d31f943641bed987bedecf876",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cmb2cc38494496a1ff9875c8ab",
+      "hash": "4ae6ec45c482836806140f61fec558f7148912328d0598252410e46fa0ce6de9",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm2a43890ec396768dd3682bab",
+      "hash": "4c212cb15a0467c3614a1465e855e06713b51b2fbb43b65237b5a89d05336049",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm0f9e51e34711f720fc3752ab",
+      "hash": "4cf11dd82ff17d9e40c2c427d1b2e20185d57c2423df6374ed8eb4bdd9c0095e",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm3eea90d59299ef6957aa66ab",
+      "hash": "4d48ddb42f058f78e1c6cdf319f591c565e95fe96affb84d7e85b116cadf2b5a",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cma9f46edfd180eb6d14431cab",
+      "hash": "4d4c7f8d927d7f1a63c392dd51a34f82a252b6e2d51d7adc034dcfa960765881",
+      "predictionSchemaVersion": "betclarity-prediction-v2",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm672eca07899585681362e3ab",
+      "hash": "5028803144d1368f5b8569475b6da7c41b082353881fee14a7c00db33eaf11b0",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm961c3e7389854cfe0ac70bab",
+      "hash": "52f7afaecba6aebeefc21db7230e2218db64f1cb1aabe0471d2d2aec4fb25156",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cmf9471bc4e9c0f054a49e4bab",
+      "hash": "536b0d3e04f4a6d0e33bde2f7f2a2e6ae37849f7742e14a844cdb5a25027b345",
+      "predictionSchemaVersion": "betclarity-prediction-v2",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm729cea703ab15b7977a12dab",
+      "hash": "5372ff3dbaf5be78e4a00a0a149a38af9a4884e0b3535d19cf1482f679439241",
+      "predictionSchemaVersion": "betclarity-prediction-v2",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cmc0c2697d9d750146189882ab",
+      "hash": "544070e5b7ce6c27e94eca277ee515a5498c4042f615503ccdb6ca8f025fa127",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm96d0a3a515bbbfdbc17cf8ab",
+      "hash": "54652cc85d0cf6513b9bcff160d7a9815f7dd8b4e33b3530c18ba015c2ac4812",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm63c141a3c60d691b424767ab",
+      "hash": "551cb4902e76d183a55a98e6b586fb79c2167afa596c7b28b626dc69db7fc2af",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cmd58ce6736e81f0206eed44ab",
+      "hash": "56f158195ece194527d81ca5943150f2051df14577b2b8d036ea88f4ee0d41e7",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm1765099d2a5a680fc06b87ab",
+      "hash": "58394466234caa4db54445484120b1d64298d6ee72d282d92bb20013729fa7b7",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm02198648e6207a193050deab",
+      "hash": "599c2cc2d3ce57fc05d6554542bf7153423f271199eba0cd21c86dba3f605385",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cmeac60f956ea97736ec8778ab",
+      "hash": "5b065c55752cb74848e8f6aebd8aa05cf18c8b26a52684f1e6bd1abf2f1d681c",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm7ca7a87436ceed844393b6ab",
+      "hash": "5fa9227b59577696c39025621670dc678724926c9444975041ae87d7eddbaad2",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm0baf979188f4899bc29ba1ab",
+      "hash": "63424f663825703a8442585a801a79a6dee0305c61aa90adb31d207d9ca41b64",
+      "predictionSchemaVersion": "betclarity-prediction-v2",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm709a403ab97d06b440f23cab",
+      "hash": "6434016578d2644a15f786d55d59a296a27e12f4257bc29eb24118b67f40e76a",
+      "predictionSchemaVersion": "betclarity-prediction-v2",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm12f325e607bbc36b600271ab",
+      "hash": "64eac75fa7fe629d3f9070d98732eed5805b3d20aaef7332b015e458140584da",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm64cad1a5a3652558192f38ab",
+      "hash": "657c313e5529de1d341a1c63b093d1b7b86a4eb7ece58af99e35f639d7c7504b",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm946ba4569427286e132c68ab",
+      "hash": "68b8a16ef0fb430c3fba3a422bca827bf0c6686312c835bdcd98a195a6774157",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cmd1183956e522ffdb2270f0ab",
+      "hash": "6a1241bac663a22561b472e96555463458053434e9e3a2a8cbe8e0345785c3a6",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cmfd318d267598d10de7e3b7ab",
+      "hash": "6bd02e051601903338745853000b697b195fe3029c7c2ae7d81118904651cc1a",
+      "predictionSchemaVersion": "betclarity-prediction-v2",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm18e8d92084bf40a73858a7ab",
+      "hash": "6f06f59fce10c7ee3b72f4c63d9b881eea725235f9f4e7a88e4e14de91579fd7",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm1e1ade10be0578864b1394ab",
+      "hash": "7082d628d375b9480bd88c34a136ed991b402b91d68f1c4f79ec0d547be39cf9",
+      "predictionSchemaVersion": "betclarity-prediction-v2",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cmbc0636a58af2d86d88aae2ab",
+      "hash": "70b1c2270375c478f55c79bb72a2de065cff595ed627e88ae697985d0b2b5ced",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm21785ae65504f34919c647ab",
+      "hash": "715a81edbc2c237e67413858719d298f45166fce01917da112555c3f6f5458e2",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cmc7aa2ae0976600eb5818d0ab",
+      "hash": "71cb53696ad8ef79894497d73350aa072b85f73909446b7c77e21d5162b632b6",
+      "predictionSchemaVersion": "betclarity-prediction-v2",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm60f6a671dcd78fa8539fcaab",
+      "hash": "72b902c493ccd85bad09c10928f62bdea409c8f1b9044cfe3f42b56ed3b2eb00",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm631e52d9deb79b2052e91fab",
+      "hash": "73acfcc22785da49f6cd026777d3fc56fffe80bd8ab884d57d800ad8aab043d0",
+      "predictionSchemaVersion": "betclarity-prediction-v2",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm20c2b11cfe94d6daebacdcab",
+      "hash": "767adbed912e4efff13eb0daf2dbc00e97d2511b4dabc59cb76a3cea715e68c5",
+      "predictionSchemaVersion": "betclarity-prediction-v2",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cmd98f62cdbc99e259d5351cab",
+      "hash": "76a1897815e9f099184ebdf4d0d9da3e16908a792583cca6109c594cdae90069",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm8fa0632e8eb8625bb21e14ab",
+      "hash": "774b12312b39b60814884ce275e3d842bee79aae33cf1d88098dcb9dc71f71f2",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm6536fcc5ba54df86934e5dab",
+      "hash": "77e8247f93a541b6c8d75d8a3ddbe795344ea05fbebb18ebb587b474b311738d",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cmaf30712d97c94fb0edea9cab",
+      "hash": "7812fe13c8a99bdf2547d4d87b8e8d1eb89afd9b2bf4600d6e647726abf520ff",
+      "predictionSchemaVersion": "betclarity-prediction-v2",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cmed735878a769dc7a2aa119ab",
+      "hash": "795cee5f2105c763513e0bb8c1764eccddb262daa1896f7d406083756e434114",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cmd4bb0c25a4ae65f17fc789ab",
+      "hash": "7995f08a329cb0cee347cec6e81b565fb363e28109a80763f0537047b085eaf6",
+      "predictionSchemaVersion": "betclarity-prediction-v2",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm7e3b6ad9b4413b9ef09b56ab",
+      "hash": "7af7ddae3214609ab62032d91815fb481fba97f9d4b76da09bf031bcff668472",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm4a8df4e401550a980308faab",
+      "hash": "7c5bf202a6ca8cacd464850b8057ae91fb3d34967011d2d5047a4926b3737ea5",
+      "predictionSchemaVersion": "betclarity-prediction-v2",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cma1867628c0ea515c4991b4ab",
+      "hash": "80323e279aa659391583dc044f85c1e7612dbcd73ecba3aed666b4694353d1c3",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cmeae5bed9c9b06243b620f5ab",
+      "hash": "8483e4d652dfa0c47fc6581c679f1592d600c2bcca61d13eb8d97fbaafe6fe27",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cmb3cfe69980329cb1d29592ab",
+      "hash": "87532f5fd4dfd400376bafa021be7212f4a618bf6bd18669b4d150953380a100",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cmb07002b359d27acf0e83d9ab",
+      "hash": "87aae22f806d525dc4b150b2b626dd6b0832248cecdc08a2faa9737e8f39e28f",
+      "predictionSchemaVersion": "betclarity-prediction-v2",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cma520445f5ac9896a66579aab",
+      "hash": "87edde436e0d33e09740d3ee0753c02e064d0974d5f3404444c1e3f0253dc1af",
+      "predictionSchemaVersion": "betclarity-prediction-v2",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm047d2beb59521fa0263d2aab",
+      "hash": "8865ec8f305f8ef46c9d0d29214f6a03cd046961c662d5bec494448789748d73",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm5224514fd643eede36fbe6ab",
+      "hash": "890a744a0426f94b5291a17a891c3ffc3ea2ac255ca64b4a73022c00914fe3f4",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cmbac726fc865ec983bddc35ab",
+      "hash": "8947cc5df2c98c5c851e451088b4e2c2566926a33d5d5598213de19d0f7dd7f5",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cmb68f5c8ac40d69e0a39dd2ab",
+      "hash": "8a367bcc668f0f447d011f547c0075d11a04cc36d802d72da169548330eacbf9",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm56c8ba0dc86566ab2e10a4ab",
+      "hash": "8b78eb16833dbb71345159b85d48284f0eeb53f1071b375a70881129a619a399",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm4a5ff088aa40982e81e702ab",
+      "hash": "8d7d884594564dc5a43a1b28bcb691e24f3385dd2a1e122168ffa47fa6904233",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm68a75d3a2386db5cb42052ab",
+      "hash": "8dd38db6ab0b816d8ed02c0b3cafb0aaed9b196da2f17a39a7c6719e0d8e3af5",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cmf56eb6c81ac8f6b80b368aab",
+      "hash": "8fabba37d0dd174f6c75d10af6dc55e73e491e309c3208546833ffc8b928fdfb",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm89f2f36f8b42ce15b1dfc2ab",
+      "hash": "917f54e385964dbfc72d58c1c01835dd6cc5dfba58186dac5f7d3f6e65f99eab",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm426263267589a91cecbc31ab",
+      "hash": "9278c387ccc5c91263cbf01e69bd5c02c3cadd6df2b1fe64569804634b4c32b9",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm5cb298a0b7b332c9f8edffab",
+      "hash": "932eed43645123113fc4ce3eddd5b85a27a9ca1fd2e59c2aef730133525ece12",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm4cf489d144813b1e11da6cab",
+      "hash": "94df774755c1d4dac94d6f2755e2b23e889bed5d91047d98520b86e4e8d21388",
+      "predictionSchemaVersion": "betclarity-prediction-v2",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm1a10d4d2407e25cc72d2b4ab",
+      "hash": "98a9fe4d762fda309ffbb6d49664bf1716ebf357359d32963cb9dfb0dd6b15ee",
+      "predictionSchemaVersion": "betclarity-prediction-v2",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm9849a007ee1f05cc8c6351ab",
+      "hash": "99896d98f756c2aae4c65f2ec70388de0a36680ab83df86fecfb7fabe7aa619d",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm038cec0addd3e47a9b1029ab",
+      "hash": "9a3b82b81a946bc6b200d20355429769f7ad3bfce8ed56bce38a286205e32adf",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm5fda4eaecad942aca3c498ab",
+      "hash": "9b8ba541c4a8dda4bd3717f59c9137172424101c6cde47f7db7a994901c0eee0",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cmaaf8e1f9c0d1501f90347cab",
+      "hash": "9cf7e26e01cb77a36e89199ff3db79c0ddef7e2e1480addd2f42ce24ffd2438d",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm1a16222ceb889c56e53551ab",
+      "hash": "9d73bf8b5057503de35591de6aeee48ba147ee67ab3189724424f47f1009d80b",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cmfe8d53032ebfb134feeb40ab",
+      "hash": "9e03a6d2b15feee3626c235cf2e93f7cd94ddbaf41119ad22cf187602e6f7f06",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm0c72baec2cff32cc34c4efab",
+      "hash": "9eeb281cd46852abc2090203a5c2ef5ea61d601df929adde83440616121491a1",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cmbb84f289ed162d40ed6ae7ab",
+      "hash": "9fe31f82ff32e94ba723f6f740bbd64e41d5e088906755aaf8b8dbce7e70fa76",
+      "predictionSchemaVersion": "betclarity-prediction-v2",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm416a5cbb486b4138b10fbbab",
+      "hash": "9fffc0f010c589a1dfc418cba9c6752b0491a94692232fae4f33de29fbae4764",
+      "predictionSchemaVersion": "betclarity-prediction-v2",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm3a5dfa7864c5dc43330d46ab",
+      "hash": "a03996968aeb30715ba3f9d83d6bccfe65f2e8feb00f8c733def4c378a1af550",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cmbf02a498938c3eee323aaaab",
+      "hash": "a260f9246a3b1ec7de7b4f87ac861d34cf99e394cb7ceae1640a546aac476c0b",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cmac94e9f1c09a5ad39bb7b5ab",
+      "hash": "a266ce991fb614e2b52f36c67d091737e7c538cc833a63a592d9862beeab08c0",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm0b3955e58a3bca9d8288e2ab",
+      "hash": "a33039b64e04567e5e0324942ff7396aec77650948d026c061c891f15225b96f",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm4d8aa9f72bca7e15acb149ab",
+      "hash": "a3b9b92ba2ff7626481371b8b8953394ae603e113cf5f934e5ef00d3d0d09b73",
+      "predictionSchemaVersion": "betclarity-prediction-v2",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm79c0c606efafc0066ec599ab",
+      "hash": "a5bfb04153b962571b4c1ed027937ce3f7b7345c69528b0fffcdf13e40d01194",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cmacc8be2a98a824418db9f0ab",
+      "hash": "a5d46b0ef72fe629c87225e4beedd303f9a53dfb8be965073f9ad0ac04f5f43a",
+      "predictionSchemaVersion": "betclarity-prediction-v2",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cmaf188afac5c3098b00ae1dab",
+      "hash": "a6b027b8fa2e14a8ea7c8172ad57f97d6c86cca7b91d7deb73e05287563f2229",
+      "predictionSchemaVersion": "betclarity-prediction-v2",
+      "publishedAt": "2026-10-16T02:17:44.436Z"
+    },
+    {
+      "id": "cmb72abc04057bb311b24ffcab",
+      "hash": "a742a21915754a499e3fcfb0e49780c334e4494f97464755eb9a9e9e641bb711",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm145e44fe6b1af486b291f7ab",
+      "hash": "a7712571c1356b71b05957315b2f0880867204843ca69e8580271bd354ddfaec",
+      "predictionSchemaVersion": "betclarity-prediction-v2",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cmb26c37c9bb7bdbff1cd4b3ab",
+      "hash": "a7c199d723bcf979cba36c66d08ef9221233c7da393588ff1468e44918cca528",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cmf93aa079c427453637c66fab",
+      "hash": "a7c3e92f68f470bd480505062102027b4ac9c9986537c63f7eba938478352017",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cme7475e57d7cb1f3c9af213ab",
+      "hash": "a8f38febdda3733d2cd5c1b9fb782eb7362fdf8d54f36dc5ce25ea09eb47bb3f",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cme787ace9201c4ba08d2285ab",
+      "hash": "aa2175684c83bb35cfeea9aa755b2d54040a03cc86ea581911e09b0d0cc15d73",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm29dc70fcf96e1c923f5da8ab",
+      "hash": "ab21148ebe6ac1ce20531b92675c968a951d83c392d18501d478371b9df9b8ef",
+      "predictionSchemaVersion": "betclarity-prediction-v2",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm085c175a4e04a6f2e7c9b6ab",
+      "hash": "aebc9fe121c8be75fb371f67616532a6ef8066d793b178d3ff9cb368fba68fa6",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm40bca7e777b73c0b5cd865ab",
+      "hash": "b09d460c211bbb6dd6fce14d508078596aba4a069be07d9995c18fd7373b26a3",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cmfec8ccbad5f850b2112fcfab",
+      "hash": "b12573d6461a2f6f28b876b1d5f69533adbf4cc29f6cda56689b298916df523b",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm3a5a6797a69f7840a16168ab",
+      "hash": "b19404a45d324eda2dc6eda73dcc5c67d48ec9711ab7c238a1bacd50d09060a0",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cme746cff1cb1b44ba8c80b3ab",
+      "hash": "b1b094521fd72eef6d6d95fff91ced0704cd223cfd41abf44a994cdbcc99474d",
+      "predictionSchemaVersion": "betclarity-prediction-v2",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm7ae9cfcf14f54d2a52bea8ab",
+      "hash": "b21fac5e68eb868795aeab6ac568f174c9b131fe4a7576094c3f33f3f6756ffb",
+      "predictionSchemaVersion": "betclarity-prediction-v2",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cmaa809ae4de82b96d4a9eecab",
+      "hash": "b24b3607a44dd6c62e52585563f01f708cd18ef5f2ccf3dae7b53d601345aad3",
+      "predictionSchemaVersion": "betclarity-prediction-v2",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm8b6eecdafdf2ae54e57e59ab",
+      "hash": "b4749cabb51f63c68280f7f96d184ec5cd1b87c4ffed786d1fd0440960e4e35f",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cma8222eb1333d5fbdf1b6b2ab",
+      "hash": "b624ff5ddd2be23e0444c6ce2e3f0d05976dc76fd18d73fbd2c3fb9c33d12691",
+      "predictionSchemaVersion": "betclarity-prediction-v2",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm0527e83c552deb0a378124ab",
+      "hash": "b6e0b1768ae9fec8bfaf41c789e6ca096b261b1004cf3dbca05c82d630bcf858",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cmd10197b071fd66189b3933ab",
+      "hash": "b8a629babe2822174e8dee74608048d2176dc3bdd2825ad5965801c190830a78",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm412b325f5f7b917d8f8ea8ab",
+      "hash": "b93d880d378c5b39750b654ff58a0537dfb4534c2ed58b2fc35af49ec5008474",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cme1382d74df42c2129832c4ab",
+      "hash": "bb96968d89cb4b69628c6c5b9b8a5fcbf4fb37992ea3176c1fe546f73b48aaef",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm6d419475d7c43b6af49e3aab",
+      "hash": "bce20e2baa3fca5d2788778d212dd1ad4626bf0b10372b9a5a140ba0aae200a8",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm08ba49e03dd6a3c86af67eab",
+      "hash": "bdc3b102e6d29bb72b4681402070100d3eec87cdef20c103d0685166ee04dcb9",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm0eae5fdd8738b85267c233ab",
+      "hash": "c097e706d3e46e8ec0c36069126db69774d738fa03f388c4b1ea75332d0d577c",
+      "predictionSchemaVersion": "betclarity-prediction-v2",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm102014155847fffec34c0cab",
+      "hash": "c0f433c92fb1c52f15bdb8ca226e558e40354c82b450ca9efa667f267bf94644",
+      "predictionSchemaVersion": "betclarity-prediction-v2",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm7ecddc7450e544349e9e5bab",
+      "hash": "c1517e0eb9e54d92a3f57bace19ff08c657f5d0c2fc0c875d80e5e9af94edcfa",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cmf07d177922a763f4a24a17ab",
+      "hash": "c19d6b91c5af7714a376a94b005fd61ee3f02947cd7b99422875caa00acdc8a9",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm32195b453d3f7fd45e791cab",
+      "hash": "c1de31f79daf26006a97b1a41805af47b7b61d4d957d0cf26ca5084309ce728e",
+      "predictionSchemaVersion": "betclarity-prediction-v2",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cmf2b9e0fb5e17be179fc6f6ab",
+      "hash": "c25df79d45a219f7a9590a6846342873455f2df282fc46e2d2f6db352f3a054b",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm3750914860b500e433ba53ab",
+      "hash": "c52bf7ee42fe874360a0494f17cc8f195e27039443bc517b0945d491b3905cac",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm1e25af5e68534ff7034393ab",
+      "hash": "c587f07741f3c886c51cb7be4f6fb2787933bfd4bd2ce732f43e6a9094babbda",
+      "predictionSchemaVersion": "betclarity-prediction-v2",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm9f4f9ec335687440360157ab",
+      "hash": "c67aad32c8f74ceac7e7f9e0974b060f978274b127c00fe4276222402dc9781d",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm763e142648624416e3e620ab",
+      "hash": "c739d863f9e7c80772f152a5d169abeda9e62d59439c4e8e06ca9c4a3a57424f",
+      "predictionSchemaVersion": "betclarity-prediction-v2",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm4b0bf9131680be8bd1b94fab",
+      "hash": "cb133f7a2b5c480582b5578401778c0f992fd584f1daf6ef889f27993c947569",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm111d544bda429b86d076f8ab",
+      "hash": "cce6debc46bcf9129deefcc2d17dcf452ffbf6e75fd48ff4e3d7acd41eb3662c",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm4cff0658a15f4e755f0b25ab",
+      "hash": "cf32b50796a6678170b0de06e2a543b5fa516c567ce25a966d89b504ebaf03b6",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm98e9b56809008bcafea591ab",
+      "hash": "d18c06b5b2a03531bc8ec70f6df9a186c366bee73d927d371765dbb2b83d8fef",
+      "predictionSchemaVersion": "betclarity-prediction-v2",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cmab2f8a720bdd20d7e7b60fab",
+      "hash": "d4228ae62adeb7d081567fc75687eee380984fd7a0effabd4c769a96d2467353",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cmdf90d70f8c82adb69a197fab",
+      "hash": "d4ae4e2b947ede079a3a9d120a2366d19959d2b16e7cb1459e93e3e39f36ac92",
+      "predictionSchemaVersion": "betclarity-prediction-v2",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cmc268e5a94f21bd45b14f9eab",
+      "hash": "d6315ac44eec506b00f5ad2af544b553d41cf5d2a6149fdecf520c02cf5dd006",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cmc3a026bacab694594daa30ab",
+      "hash": "d6837b4e334c704c6f69a3db9c683be68f46010ca7ab5644e8e28fb9a4981abf",
+      "predictionSchemaVersion": "betclarity-prediction-v2",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm5a3145f9abc4026c3a8472ab",
+      "hash": "d68dd136368323734aaf31d6c94bf5ee73196e738a5d988df2baf14127c4f968",
+      "predictionSchemaVersion": "betclarity-prediction-v2",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cma26e5293d979f7a03f7d74ab",
+      "hash": "d7094a2108d2fa420df2e82fe0803ac71ffd12b07d7f0a97ff897716a10581f6",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm7cdf3437ed4d47fd660ecaab",
+      "hash": "d7230a43a873d3be8bd840e8392e2939ed4456af0e80a63eafa31ae03de8a66e",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm77a72a71e3499ce3b2f0dcab",
+      "hash": "d835574c9812052d5750d916800c203519d3f97a2ee1d843aa333b9461eb426e",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm5ee82de166da9839ea4652ab",
+      "hash": "d865841dcd6a79fef83b734ffcdbd28b030f5f435978ae706d6ee769fa2cec80",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cme791ff53f4825fb22abcf0ab",
+      "hash": "d9f691f8ba0e029b810b590e475af8665f4a1945c9ec86bdd74e07524da7cc20",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cme17c79bc628a7310c1afa2ab",
+      "hash": "dce613daab34b570706f343b77e7030897626de1e42e9d55b1529df0fd10ffbe",
+      "predictionSchemaVersion": "betclarity-prediction-v2",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cmac34b104643698973d5af3ab",
+      "hash": "ded84154c747a858a43fa2b29150f04937df4d664bdca8ed5cdb504083d5e49c",
+      "predictionSchemaVersion": "betclarity-prediction-v2",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm8e9e1a027298d1da4311edab",
+      "hash": "dee890b3d9aaf491839361b903fb0c707e321ab93fdcdbdab371775521af19d0",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm62e9e23b31117dc4118fa0ab",
+      "hash": "e159f125a4cc5b4bc60b0367667a9e0eb54b1d15aee3a640846d32f448528667",
+      "predictionSchemaVersion": "betclarity-prediction-v2",
+      "publishedAt": "2026-10-16T02:17:44.436Z"
+    },
+    {
+      "id": "cm5b455fff993bf1de942688ab",
+      "hash": "e15cabc60efea4ba8c95efe139714e9086aea7eae9ab258e1574ee7263e5b9a6",
+      "predictionSchemaVersion": "betclarity-prediction-v2",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm6d3510037e48a180957ed2ab",
+      "hash": "e27800f96bc32d25248b96b9c883e51ef192608a239fe915f5b3b360daccfd92",
+      "predictionSchemaVersion": "betclarity-prediction-v2",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cmedd27a93b9e1940a8ed384ab",
+      "hash": "e43810e4932df24f0f2d3f491396df88ff22d5e579d65eafa32b1bbb7a1be4e7",
+      "predictionSchemaVersion": "betclarity-prediction-v2",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm70f2e60c63d37c481660d0ab",
+      "hash": "e98e5940c99a3329fe85ab493580c26f2de1e8b267e829d9784e47e9799a9f14",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm4bf7018c3cad7c083aed36ab",
+      "hash": "ebf8c16ca5bccf5e7f236cce9285c88f5a0f1ae8686080cc0dfe7aca5893e4bb",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm702039859dd6d40976d482ab",
+      "hash": "ec3162995f0dadc02d13c3bd0b7fd0c991d67f0a84d4c59841f693d2fdf548a5",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm8cc3d6c00db7e9871aeab5ab",
+      "hash": "ec3a0c9fc481dda2efa86d4f85570ab258594fbb3e7d62fdc90ff64602dd5668",
+      "predictionSchemaVersion": "betclarity-prediction-v2",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cmaffac12e3f4e25b2afea96ab",
+      "hash": "ec5e6ac61c9682c0b481924f78c0ebda9c1ab16e06eda09377aa1f47ae128058",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cmd29a3bbd1a164b99c275b2ab",
+      "hash": "f689df1c4b62c85cc5d8548d69bd0dea02a790c8eae83a8693e50a468fdbcc9a",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm5d1beb91a9d4a12d94a111ab",
+      "hash": "f6d12614e274998aa2cfaea35fea94808c23d2b50e5c4401667e287880066d88",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm325c91941cbb9c261966f9ab",
+      "hash": "f7a6c40d9356fdfc051daba4e844e7cb43dc9b3c2073f72db01d518e7881cc6a",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm232a3079a333ab442715e4ab",
+      "hash": "f8248fa9b7693a6475ef3b187db14af757a712a330c74fe14f5cc298d3a2993b",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm7980b718bd546bb4763b97ab",
+      "hash": "f96ca14bec48ecc551af158d0e82462c9dbbd656908bb760eeefe1607332179b",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cmc3920be6b62f7c14658a10ab",
+      "hash": "faef3307cc004170f4196637807069c41206b059e3ab48b01a71d7c9a1bd4de1",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cmc0241b4f79177cea0b7d30ab",
+      "hash": "fc01ad69d5509bbd3ac668cb60b457a811bcd5b7b5cd2233dc3ccd369211e76d",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm40d00f799378f4d5146066ab",
+      "hash": "fc60f5fdbb4b6bd333e2ff22dbc38e339baa324483f50b62d2e5a4ccc103358c",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm73d7ed9101314a58f90697ab",
+      "hash": "fd8e78a4ba43ac498ac3642b2d882f8740688ddf46e268c1d6e1e8363e09772d",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cm0693bbf34c9fa697914541ab",
+      "hash": "fe0c3511522bd2e0156f1b748ed68a54677560a8f0efa3d87038d14fde6e5dfd",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    },
+    {
+      "id": "cmc4ca2ede5214e31734d38fab",
+      "hash": "ffdf80bd3c2edaefaebc65c738af3b5431c484e4cdbe56d89f313e0737b0fa8b",
+      "predictionSchemaVersion": "betclarity-prediction-v3",
+      "publishedAt": "2026-10-16T02:17:11.742Z"
+    }
+  ]
+}
